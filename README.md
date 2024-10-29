@@ -1,5 +1,6 @@
 
-**Diploma Thesis** 
+**Diploma Thesis**
+
 Topic: **Design of Automatic Control for Storage Cameras in a Controlled Atmosphere.**
 **TLDR:**
   - The diploma thesis develops a system for monitoring and controlling the parameters of the controlled        atmosphere in storage chambers.
